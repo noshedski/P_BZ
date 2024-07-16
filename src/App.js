@@ -15,7 +15,7 @@ import Stories, { storiesLoader } from './pages/stories/Stories'
 import StoryDetails, { storyDetailsLoader } from "./pages/stories/StoryDetails"
 import StoryError from './pages/stories/StoryError'
 import SportsLeagues from './pages/SportsLeagues'
-import Groups, { groupsLoader } from './pages/Groups'
+import Groups from './pages/Groups'
 import ViewGroup from './pages/groups/ViewGroup'
 import MakeGroup from './pages/groups/MakeGroup'
 import SignUp from './pages/SignUp'

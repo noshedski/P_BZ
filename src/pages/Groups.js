@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import{Link, useLoaderData} from 'react-router-dom';
+import{Link} from 'react-router-dom';
 
 
 
 export default function Groups() {
     
 
-    const [group, setGroup] = useState({
+    const [group] = useState({
         
             "id": 1,
             "name": "SEG3125-Group",

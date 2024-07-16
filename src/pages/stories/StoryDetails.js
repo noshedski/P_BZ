@@ -7,7 +7,7 @@ export default function StoryDetails() {
   
   return (
     <div className="story-details">
-      <h2>Story Details for</h2>
+      <h2>Story Details for {id} </h2>
       <h3>{story.title}</h3>
       <p>Sport: {story.sport}</p>
       <p>By Author: {story.author} </p>
